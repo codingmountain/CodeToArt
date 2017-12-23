@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeToArt</string>
+    <string name="info">Developer info</string>
+    <string name="close">Close</string>
+    <string name="dev_name">Chandraprakash Gandhwani</string>
+    <string name="dev_phone">+918012215335</string>
+    <string name="dev_experience">2.4 years of experience</string>
+    <string name="dev_company">Cognizant</string>
+    <string name="codetoart">"@Codetoart assignment"</string>
+</resources>
